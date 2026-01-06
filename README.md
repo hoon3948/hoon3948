@@ -4,4 +4,4 @@
 
 ### Get in Touch
 
-[![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://zzsza.github.io/)](여러분들 블로그 주소) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://velog.io/@rxg_1211/posts>)](<https://velog.io/@rxg_1211/posts>)
+[![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://zzsza.github.io/)](My Velog link!) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://velog.io/@rxg_1211/posts>)](<https://velog.io/@rxg_1211/posts>)
