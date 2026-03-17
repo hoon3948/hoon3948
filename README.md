@@ -4,4 +4,10 @@
 
 ### Get in Touch
 
-[![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://hoon3948.github.io/)](My Velog link!) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://velog.io/@rxg_1211/posts>)](<https://velog.io/@rxg_1211/posts>)
+[![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://hoon3948.github.io/)]
+[My Velog link!](<https://velog.io/@rxg_1211/posts>)
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/hoon3948"/>
+</a>
